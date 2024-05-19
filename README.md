@@ -1,2 +1,3 @@
 # my-awesome-project
 Challenge_Quete3_Git
+This awesome project is created to experiment git notions like clone, push and pull.
